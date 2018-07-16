@@ -1,3 +1,4 @@
+# ToDo
 # This is a simple laravel ToDo App made with the intention of implementing CRUD in laravel.
 # To use the app create a database and name it ToDo. 
 # Clone the app and edit the .env file in the DB_PASSWORD field to your localhost password.
